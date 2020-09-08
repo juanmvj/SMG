@@ -6367,7 +6367,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
   right: 0;
   bottom: 0;
   width: calc(50% + 50px);
-  z-index: 1; /*possible error*/
+  z-index: 2s; /*possible error*/
 }
 
 .intro-about .background-mask .background-mask-bg {
