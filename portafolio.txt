@@ -1,0 +1,2 @@
+Las tres carpetas css,img y js de esta carpeta son para que funcione el portafolio y ninguna otra
+cosa
