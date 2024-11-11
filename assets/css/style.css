@@ -9170,7 +9170,7 @@ body.nav-active .dsn-nav-bar .icon-m .menu-icon__line {
 .header-hero .contenet-hero {
   position: relative;
   width: 100%;
-  padding: 150px 0 120px 0;
+  padding: 150px 0 0 0;
 }
 
 .header-hero h5 {
